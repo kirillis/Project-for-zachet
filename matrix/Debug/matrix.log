@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\кирилл2\source\repos\matrix\matrix\main.cpp(291): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\кирилл2\source\repos\matrix\matrix\main.cpp(299): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+c:\users\кирилл2\source\repos\matrix\matrix\main.cpp(474): warning C4715: solveCG: значение возвращается не при всех путях выполнения
+  matrix.vcxproj -> C:\Users\Кирилл2\source\repos\matrix\Debug\matrix.exe
